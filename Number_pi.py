@@ -5,7 +5,7 @@ from mpmath import mp
 
 start_time = time.time()
 
-mp.dps = 10**5
+mp.dps = 10**4
 
 pi_str = str(mp.pi)
 
